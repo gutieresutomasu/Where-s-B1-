@@ -25,6 +25,6 @@ Follow these instructions to participate:
 | 48 | `2019-11-26` | |
 | 50 | `2019-12-10` | |
 
-You have an article you want us to work on? DM [@wheres_b1](https://twitter.com/wheres_b1) on twitter or send out a pull request here in Github.
+You have an article for the challenge? DM [@wheres_b1](https://twitter.com/wheres_b1) on twitter or send out a pull request here in Github.
 
 ## Resources
