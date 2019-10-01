@@ -1,6 +1,6 @@
 ## Where's B1? Biweekly Challenge
 
-The purpose of this project is to create a collaboratorive learning space for [System Dynamics](https://www.systemdynamics.org) enthusiasts. 
+The purpose of this project is to create a collaborative learning space for [System Dynamics](https://www.systemdynamics.org) enthusiasts. 
 Everyone, regardless of expertise, is welcome to participate!
 
 Every 2 weeks we will post an article, your task is to model the system. 
