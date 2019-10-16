@@ -19,7 +19,7 @@ Follow these instructions to participate:
 | Week | Date | Article | Source
 | :---: | :---: | :---| :---|
 | 40 | `2019-10-01` | [In the Salary Race, Engineers Sprint but English Majors Endure](https://www.nytimes.com/2019/09/20/business/liberal-arts-stem-salaries.html) | NY Times |
-| 42 | `2019-10-15` | |
+| 42 | `2019-10-15` | [Tipping fatigue is real, especially for travelers](https://www.washingtonpost.com/business/economy/tipping-fatigue-is-real-especially-for-travelers/2019/10/11/aefb8bb8-eb9e-11e9-9c6d-436a0df4f31d_story.html) | Washington Post |
 | 44 | `2019-10-29` | |
 | 46 | `2019-11-12` | |
 | 48 | `2019-11-26` | |
@@ -28,3 +28,5 @@ Follow these instructions to participate:
 You have an article for the challenge? DM [@wheres_b1](https://twitter.com/wheres_b1) on twitter or send out a pull request here in Github.
 
 ## Resources
+
+[feel free to add SD modeling resources here]
