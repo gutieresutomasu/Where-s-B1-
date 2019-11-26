@@ -22,7 +22,7 @@ Follow these instructions to participate:
 | 42 | `2019-10-15` | [Tipping fatigue is real, especially for travelers](https://www.washingtonpost.com/business/economy/tipping-fatigue-is-real-especially-for-travelers/2019/10/11/aefb8bb8-eb9e-11e9-9c6d-436a0df4f31d_story.html) | Washington Post |
 | 44 | `2019-11-02` | [A New, More Rigorous Study Confirms: The More You Use Facebook, the Worse You Feel](https://hbr.org/2017/04/a-new-more-rigorous-study-confirms-the-more-you-use-facebook-the-worse-you-feel?)| HBR |
 | 46 | `2019-11-12` | No new challenge, check out one of the previous ones |
-| 48 | `2019-11-26` | |
+| 48 | `2019-11-26` | [Across the globe, millions join biggest climate protest ever ](https://www.theguardian.com/environment/2019/sep/21/across-the-globe-millions-join-biggest-climate-protest-ever) | The Guardian |
 | 50 | `2019-12-10` | |
 
 You have an article for the challenge? DM [@wheres_b1](https://twitter.com/wheres_b1) on twitter or send out a pull request here in Github.
