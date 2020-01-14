@@ -23,7 +23,7 @@ Follow these instructions to participate:
 | 44 | `2019-11-02` | [A New, More Rigorous Study Confirms: The More You Use Facebook, the Worse You Feel](https://hbr.org/2017/04/a-new-more-rigorous-study-confirms-the-more-you-use-facebook-the-worse-you-feel?)| HBR |
 | 46 | `2019-11-12` | No new challenge, check out one of the previous ones |
 | 48 | `2019-11-26` | [Across the globe, millions join biggest climate protest ever ](https://www.theguardian.com/environment/2019/sep/21/across-the-globe-millions-join-biggest-climate-protest-ever) | The Guardian |
-| 50 | `2019-12-10` | |
+| 03 | `2020-01-14` | [Games academics play and their consequences: how authorship, h-index and journal impact factors are shaping the future of academia](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2047?af=R&#RSPB20192047C8) | The Royal Society Publishing |
 
 You have an article for the challenge? DM [@wheres_b1](https://twitter.com/wheres_b1) on twitter or send out a pull request here in Github.
 
